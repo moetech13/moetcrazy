@@ -1,0 +1,54 @@
+{
+  "name": "moetcrazy",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "next": "9.5.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moetech13/moetcrazy.git"
+  },
+  "keywords": [
+    "Mouminatou",
+    "Barry",
+    "Moe",
+    "Techtainment",
+    "90s",
+    "Crazy",
+    "Neuro",
+    "STEM",
+    "Brain",
+    "Memory",
+    "Nerd",
+    "Gerd",
+    "Synapse",
+    "Tv",
+    "shows",
+    "recall",
+    "audio",
+    "visual",
+    "semantic",
+    "levels",
+    "music",
+    "cartoons"
+  ],
+  "author": "Mouminatou Barry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moetech13/moetcrazy/issues"
+  },
+  "homepage": "https://github.com/moetech13/moetcrazy#readme"
+}
